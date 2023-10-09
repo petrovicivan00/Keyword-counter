@@ -1,0 +1,501 @@
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory
+[Enter command] >>> [INFO] Getting result synchronously
+[INFO] {one=3, two=1, three=1}
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] Getting result synchronously for 1
+[INFO] {one=4, two=3, three=0}
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] Getting result synchronously for file|corpus_sagan
+[INFO] {one=4, two=3, three=0}
+[Enter command] >>> [INFO] Getting result asynchronously for file|corpus_sagan
+[Enter command] >>> [INFO] {one=4, two=3, three=0}
+[INFO] Getting result asynchronously for file|trump_corpus
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [ERROR] trump_corpus isn't starting with given prefix, skipping
+[ERROR] Scanning directory corpus_riker
+[ERROR] Scanning directory corpus_sagan
+[ERROR] trump_corpus isn't starting with given prefix, skipping
+[ERROR] Scanning directory corpus_riker
+[ERROR] Scanning directory corpus_sagan
+[ERROR] trump_corpus isn't starting with given prefix, skipping
+[ERROR] Scanning directory corpus_riker
+[ERROR] Scanning directory corpus_sagan
+[ERROR] trump_corpus isn't starting with given prefix, skipping
+[ERROR] Scanning directory corpus_riker
+[ERROR] Scanning directory corpus_sagan
+[ERROR] trump_corpus isn't starting with given prefix, skipping
+[ERROR] Scanning directory corpus_riker
+[ERROR] Scanning directory corpus_sagan
+[ERROR] trump_corpus isn't starting with given prefix, skipping
+[ERROR] Scanning directory corpus_riker
+[ERROR] Scanning directory corpus_sagan
+[ERROR] trump_corpus isn't starting with given prefix, skipping
+[ERROR] Scanning directory corpus_riker
+[ERROR] Scanning directory corpus_sagan
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] trump_corpus isn't starting with given prefix, skipping
+[INFO] Scanning directory corpus_riker
+[INFO] Scanning directory corpus_sagan
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] Clearing file summary
+[Enter command] >>> [INFO] Add web page https://www.gatesnotes.com/2019-Annual-Letter
+[Enter command] >>> [ERROR] Cannot scan web page: https://www.facebook.com/sharer/sharer.php?u=https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=00_00_00_share_fb&title=We%20didn’t%20see%20this%20coming&quote=Nine%20things%20that%20have%20surprised%20us%20and%20inspired%20us%20to%20take%20action.
+[ERROR] Cannot scan web page: https://twitter.com/intent/tweet?text=Read%20Bill%20&amp;%20Melinda%20Gates’s%20Annual%20Letter.%20It’s%20about%209%20things%20that%20have%20surprised%20them%20over%20the%20years.&url=https://b-gat.es/2RGJMdQ?WT.mc_id=00_00_00_share_tw&via=billgates
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Add web page https://en.wikipedia.org/wiki/Serbia
+[Enter command] >>> [ERROR] Cannot scan web page: https://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;init=1&amp;language=en&amp;pcode=tessi190&amp;plugin=1
+[ERROR] Cannot scan web page: https://ec.europa.eu/commission/sites/beta-political/files/communication-credible-enlargement-perspective-western-balkans_en.pdf
+[ERROR] Cannot scan web page: http://www.fifoost.org/jugoslaw/yugo.pdf
+[ERROR] Cannot scan web page: https://pqasb.pqarchiver.com/latimes/access/337249982.html
+[ERROR] Cannot scan web page: https://timesmachine.nytimes.com/timesmachine/1918/04/05/102687236.pdf
+[ERROR] Cannot scan web page: https://www.yadvashem.org/odot_pdf/Microsoft%20Word%20-%205904.pdf
+[ERROR] Cannot scan web page: http://balkans360.com/serbia/
+[ERROR] Cannot scan web page: http://demo.paragraf.rs/combined/Old/t/t2011_12/t12_0319.htm
+[ERROR] Cannot scan web page: http://www.sgd.org.rs/publikacije/glasnik/2009_4/10_Carevic.I._e.pdf
+[ERROR] Cannot scan web page: http://www.worldriskreport.com/uploads/media/WorldRiskReport_2013_online_01.pdf
+[ERROR] Cannot scan web page: http://www.dunavskastrategija.rs/en/?p=185
+[ERROR] Cannot scan web page: https://www.serbia-visit.com/en/things-to-do/nature-and-outdoors
+[ERROR] Cannot scan web page: http://www.serbia.com/kikinda-the-largest-winter-stationary-of-long-eared-owls-on-the-planet/
+[ERROR] Cannot scan web page: https://www.researchgate.net/publication/324288846
+[ERROR] Cannot scan web page: http://assembly.coe.int/nw/xml/XRef/X2H-Xref-ViewHTML.asp?FileID=9143&amp;lang=EN
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [ERROR] Cannot parse command
+[Enter command] >>> [INFO] Add web page https://www.gatesnotes.com/2019-Annual-Letter
+[Enter command] >>> [INFO] Add web page https://www.gatesnotes.com/2019-Annual-Letter
+[Enter command] >>> [ERROR] Cannot scan web page: https://twitter.com/intent/tweet?text=Read%20Bill%20&amp;%20Melinda%20Gates’s%20Annual%20Letter.%20It’s%20about%209%20things%20that%20have%20surprised%20them%20over%20the%20years.&url=https://b-gat.es/2RGJMdQ?WT.mc_id=00_00_00_share_tw&via=billgates
+[ERROR] Cannot scan web page: https://www.facebook.com/sharer/sharer.php?u=https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=00_00_00_share_fb&title=We%20didn’t%20see%20this%20coming&quote=Nine%20things%20that%20have%20surprised%20us%20and%20inspired%20us%20to%20take%20action.
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [ERROR] Cannot parse command
+[Enter command] >>> [INFO] Add web page null
+[ERROR] Cannot parse command
+[Enter command] >>> [INFO] Add web page https://www.gatesnotes.com/2019-Annual-Letter
+[Enter command] >>> [ERROR] Cannot scan web page: https://www.facebook.com/sharer/sharer.php?u=https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=00_00_00_share_fb&title=We%20didn’t%20see%20this%20coming&quote=Nine%20things%20that%20have%20surprised%20us%20and%20inspired%20us%20to%20take%20action.
+[ERROR] Cannot scan web page: https://twitter.com/intent/tweet?text=Read%20Bill%20&amp;%20Melinda%20Gates’s%20Annual%20Letter.%20It’s%20about%209%20things%20that%20have%20surprised%20them%20over%20the%20years.&url=https://b-gat.es/2RGJMdQ?WT.mc_id=00_00_00_share_tw&via=billgates
+[INFO] Getting result asynchronously for web|summary
+[Enter command] >>> [INFO] wired.com: {one=0, two=0, three=0}
+[INFO] use.typekit.net: {one=0, two=0, three=0}
+[INFO] school.bighistoryproject.com: {one=5, two=0, three=0}
+[INFO] twitter.com: {one=0, two=0, three=0}
+[INFO] fonts.googleapis.com: {one=0, two=0, three=0}
+[INFO] en.wikipedia.org: {one=20, two=11, three=9}
+[INFO] blog.23andme.com: {one=0, two=0, three=0}
+[INFO] fast.fonts.net: {one=0, two=0, three=0}
+[INFO] gatesnotes.com: {one=21, two=11, three=4}
+[INFO] facebook.com: {one=0, two=0, three=0}
+[INFO] linkedin.com: {one=0, two=0, three=0}
+[INFO] b-t.energy: {one=1, two=0, three=0}
+[INFO] Getting result synchronously for web|summary
+[INFO] wired.com: {one=0, two=0, three=0}
+[INFO] use.typekit.net: {one=0, two=0, three=0}
+[INFO] school.bighistoryproject.com: {one=5, two=0, three=0}
+[INFO] twitter.com: {one=0, two=0, three=0}
+[INFO] fonts.googleapis.com: {one=0, two=0, three=0}
+[INFO] en.wikipedia.org: {one=20, two=11, three=9}
+[INFO] blog.23andme.com: {one=0, two=0, three=0}
+[INFO] fast.fonts.net: {one=0, two=0, three=0}
+[INFO] gatesnotes.com: {one=21, two=11, three=4}
+[INFO] facebook.com: {one=0, two=0, three=0}
+[INFO] linkedin.com: {one=0, two=0, three=0}
+[INFO] b-t.energy: {one=1, two=0, three=0}
+[Enter command] >>> [INFO] Add web page https://www.gatesnotes.com/2019-Annual-Letter
+[Enter command] >>> [INFO] Getting result asynchronously for web|summary
+[Enter command] >>> [INFO] wired.com: {one=0, two=0, three=0}
+[INFO] use.typekit.net: {one=0, two=0, three=0}
+[INFO] school.bighistoryproject.com: {one=5, two=0, three=0}
+[INFO] twitter.com: {one=0, two=0, three=0}
+[INFO] fonts.googleapis.com: {one=0, two=0, three=0}
+[INFO] en.wikipedia.org: {one=20, two=11, three=9}
+[INFO] blog.23andme.com: {one=0, two=0, three=0}
+[INFO] fast.fonts.net: {one=0, two=0, three=0}
+[INFO] gatesnotes.com: {one=21, two=11, three=4}
+[INFO] facebook.com: {one=0, two=0, three=0}
+[INFO] linkedin.com: {one=0, two=0, three=0}
+[INFO] b-t.energy: {one=1, two=0, three=0}
+[INFO] Clearing web summary
+[Enter command] >>> [INFO] Add web page https://www.gatesnotes.com/2019-Annual-Letter
+[Enter command] >>> [INFO] Getting result synchronously for web|summary
+[INFO] wired.com: {one=0, two=0, three=0}
+[INFO] use.typekit.net: {one=0, two=0, three=0}
+[INFO] school.bighistoryproject.com: {one=5, two=0, three=0}
+[INFO] twitter.com: {one=0, two=0, three=0}
+[INFO] fonts.googleapis.com: {one=0, two=0, three=0}
+[INFO] en.wikipedia.org: {one=20, two=11, three=9}
+[INFO] blog.23andme.com: {one=0, two=0, three=0}
+[INFO] fast.fonts.net: {one=0, two=0, three=0}
+[INFO] gatesnotes.com: {one=21, two=11, three=4}
+[INFO] facebook.com: {one=0, two=0, three=0}
+[INFO] linkedin.com: {one=0, two=0, three=0}
+[INFO] b-t.energy: {one=1, two=0, three=0}
+[Enter command] >>> [INFO] Clearing web summary
+[Enter command] >>> [INFO] Clearing file summary
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [ERROR] Cannot parse command
+[Enter command] >>> [INFO] Add web page https://www.gatesnotes.com/2019-Annual-Letter
+[Enter command] >>> [INFO] Scanning url https://www.gatesnotes.com/2019-Annual-Letter
+[INFO] Scanning url https://www.gatesnotes.com/2019-Annual-Letter
+[INFO] Scanning url https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700&display=swap&subset=latin-ext
+[INFO] Scanning url https://fonts.googleapis.com/css?family=Asap+Condensed:400,500,600,700
+[INFO] Scanning url https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap
+[INFO] Scanning url https://www.facebook.com/sharer/sharer.php?u=https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=00_00_00_share_fb&title=We%20didn’t%20see%20this%20coming&quote=Nine%20things%20that%20have%20surprised%20us%20and%20inspired%20us%20to%20take%20action.
+[ERROR] Cannot scan web page: https://www.facebook.com/sharer/sharer.php?u=https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=00_00_00_share_fb&title=We%20didn’t%20see%20this%20coming&quote=Nine%20things%20that%20have%20surprised%20us%20and%20inspired%20us%20to%20take%20action.
+[INFO] Scanning url https://fast.fonts.net/cssapi/70f13e4f-a7d3-4a3c-ad72-0de102650ef0.css
+[INFO] Scanning url https://use.typekit.net/cya0eea.css
+[INFO] Scanning url https://www.linkedin.com/shareArticle?mini=true&source=GatesNotes&url=https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=00_00_00_share_li&title=We%20didn’t%20see%20this%20coming
+[INFO] Scanning url https://en.wikipedia.org/wiki/Golden_State_Killer
+[INFO] Scanning url https://blog.23andme.com/23andme-research/new-study-finds-genetic-links-risk-premature-births/
+[INFO] Scanning url https://www.wired.com/story/wired25-bill-gates-stephen-quake-blood-tests/
+[INFO] Scanning url https://school.bighistoryproject.com/bhplive
+[INFO] Scanning url https://twitter.com/intent/tweet?text=Read%20Bill%20&amp;%20Melinda%20Gates’s%20Annual%20Letter.%20It’s%20about%209%20things%20that%20have%20surprised%20them%20over%20the%20years.&url=https://b-gat.es/2RGJMdQ?WT.mc_id=00_00_00_share_tw&via=billgates
+[ERROR] Cannot scan web page: https://twitter.com/intent/tweet?text=Read%20Bill%20&amp;%20Melinda%20Gates’s%20Annual%20Letter.%20It’s%20about%209%20things%20that%20have%20surprised%20them%20over%20the%20years.&url=https://b-gat.es/2RGJMdQ?WT.mc_id=00_00_00_share_tw&via=billgates
+[INFO] Scanning url https://www.b-t.energy/
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] Getting result asynchronously for file|corpus_riker
+[Enter command] >>> [INFO] {one=3, two=1, three=1}
+[INFO] Getting result asynchronously for file|corpus_sagan
+[Enter command] >>> [INFO] {one=4, two=3, three=0}
+[INFO] Getting result synchronously for corpus|riker
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] Getting result synchronously for corpus|riker
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] Getting result synchronously for corpus|riker
+[ERROR] Cannot parse command
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] Getting result asynchronously for file|corpus_riker
+[Enter command] >>> [ERROR] Cannot parse command
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] Getting result synchronously for file|corpus_riker
+[INFO] {one=3, two=1, three=1}
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data3
+[Enter command] >>> [INFO] Getting result asynchronously for file|corpus_troll
+[Enter command] >>> [INFO] {one=10, two=0, three=0}
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory example/data2
+[Enter command] >>> [INFO] Getting result asynchronously for file|corpus_mcfly
+[Enter command] >>> [INFO] {one=1, two=0, three=0}
+[INFO] Getting result asynchronously for file|data2
+[Enter command] >>> [INFO] Getting result asynchronously for file|example/data2
+[Enter command] >>> [INFO] Adding directory data
+[Enter command] >>> [INFO] Adding directory example/data
+[Enter command] >>> [INFO] Getting result asynchronously for file|corpus_sagan
+[Enter command] >>> 

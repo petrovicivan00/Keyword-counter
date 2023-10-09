@@ -1,0 +1,67 @@
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory
+[Enter command] >>> [ERROR] Cannot add directory: example/data
+[INFO] Adding directory
+[Enter command] >>> [ERROR] Cannot add directory: example/data1
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Adding directory
+[Enter command] >>> [ERROR] Cannot add directory: example/data1
+[INFO] Getting result synchronously
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Getting result synchronously
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Getting result synchronously
+[ERROR] Cannot parse command
+[Enter command] >>> [INFO] Adding directory
+[Enter command] >>> [ERROR] Cannot add directory: data
+[INFO] Adding directory
+[Enter command] >>> [ERROR] Cannot add directory: data5
+[INFO] Adding directory
+[Enter command] >>> [ERROR] Cannot add directory: example/data
+[INFO] KEYWORDS = one,two,three
+[INFO] FILE_CORPUS_PREFIX = corpus_
+[INFO] HOP_COUNT = 1
+[INFO] FILE_SCANNING_SIZE_LIMIT = 1024
+[INFO] BUFFER_TIMEOUT = 1000
+[INFO] DIR_CRAWLER_SLEEP_TIME = 1000
+[INFO] URL_REFRESH_TIME = 86400000
+[INFO] Starting threads
+[Enter command] >>> [INFO] Getting result synchronously
+[Enter command] >>> [INFO] Adding directory
+[Enter command] >>> [ERROR] Cannot add directory: example/data
